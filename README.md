@@ -1,4 +1,4 @@
-# Selenium Chatgpt Web Extension
+# Selenium Chatgpt Extension
 
 This project is a web extension that utilizes Selenium and Chatgpt to automate tasks.
 
